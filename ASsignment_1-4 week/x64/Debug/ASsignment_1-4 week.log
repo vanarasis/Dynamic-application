@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Hello\Desktop\New folder (2)\ASsignment_1-4 week\FileName.cpp(105,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ASsignment_1-4 week.vcxproj -> C:\Users\Hello\Desktop\New folder (2)\ASsignment_1-4 week\x64\Debug\ASsignment_1-4 week.exe
