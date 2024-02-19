@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // input output stream
 #include <vector>
 #include <algorithm> // for sorting
 #include <string>
@@ -15,7 +15,7 @@ public:
         this->next = nullptr;
     }
 };
-
+// creating a class for a linkedlist
 class LinkedList {
 private:
     Node* head;
